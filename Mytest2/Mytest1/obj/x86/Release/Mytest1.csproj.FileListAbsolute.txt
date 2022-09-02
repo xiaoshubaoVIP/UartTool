@@ -1,0 +1,7 @@
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\bin\Release\小书包串口助手.exe
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\bin\Release\小书包串口助手.pdb
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\obj\x86\Release\Mytest1.Form1.resources
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\obj\x86\Release\Mytest1.Properties.Resources.resources
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\obj\x86\Release\Mytest1.csproj.GenerateResource.Cache
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\obj\x86\Release\小书包串口助手.exe
+C:\Users\XiaojunTechnology\Documents\Visual Studio 2010\Projects\Mytest2\Mytest1\obj\x86\Release\小书包串口助手.pdb

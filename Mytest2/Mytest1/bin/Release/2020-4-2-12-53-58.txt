@@ -1,0 +1,4 @@
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C

@@ -1,0 +1,10 @@
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C

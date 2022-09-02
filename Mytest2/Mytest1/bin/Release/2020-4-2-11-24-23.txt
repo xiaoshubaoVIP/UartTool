@@ -1,0 +1,342 @@
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.8288V, Light=1.7V, Event:alarm!
+L_D=88980mV, Temp is T=29^C
+ADC  CO:22ppm, MCU_Bat:3.20V
+this is a nice day CO_Bat:3300mV, Event:mute!
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
+Time is in Dark=0.544V, Light=1.240V
+L_D=1.021V, Temp is T=29^C
+Test  Dark=0.82V, Light=1.7V
+L_D=1230mV
+L_D=88mV, Temp is T=29^C
+Test  Dark=2V, Light=1.101V
+L_D=70mV, Temp is T=4^C
+Event:standby!, Temp is T=4^C
+Dark=1.0V, Cur Temp t=24^C
+Co=0.9V, Temp is T=22^C
